@@ -1,13 +1,13 @@
-# Course Name
-## Professor : Full Name of Professor/s
+# Linear Algebra
+## Professor : Siddhartha Das, Indranil Chakrabarty
 
-Credits : x
+Credits : 4
 
-Lectures : x
+Lectures : 3
 
-Tutorial : x
+Tutorial : 1
 
-Practical : x
+Practical : 0
 
 <!---
 #### Grading Scheme
